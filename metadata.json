@@ -1,0 +1,11 @@
+{
+  "name": "Talkcob",
+  "description": "Talkcob is a real-time community chat, voice room, and direct messaging platform inspired by classic community spaces with an expressive talking mascot.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
